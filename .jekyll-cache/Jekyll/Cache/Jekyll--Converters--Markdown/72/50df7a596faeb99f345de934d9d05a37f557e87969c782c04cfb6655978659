@@ -1,35 +1,24 @@
----
-layout: post
-title: Curriculum Vitae
-description: Lorem ipsum dolor est
-image: assets/images/me.jpg
-nav-menu: true
-show-tile: false
-image-size: 50
-
----
-
-
-<h2>Techstack</h2>
+I"&<h2>Techstack</h2>
 <h4>Programming Languages</h4>
-Python | Matlab | SQL | C#
+<ul>Python | Matlab | SQL | C#</ul>
 
 <h4>Data Science</h4>
-Flask | Tensorflow | Keras | Scikit-learn | Matplotlib | Numpy | Pandas | NLTK | Scipy | Selenium | Textblob
-
-
+<ul>
+  Flask | Tensorflow | Keras | Scikit-learn | Matplotlib | Numpy | Pandas | NLTK | Scipy | Selenium | Textblob
+</ul>
 
 <h4>Devops</h4>
+<ul>
 Jenkins | AWS | Sentry
+</ul>
 
 <h2>Experience</h2>
 
 <h4>Since 02/2019</h4>
-<p><strong>Searchtalent GmbH</strong> - Data Scientist & Scrum Master</p>
+<p><strong>Searchtalent GmbH</strong> - Data Scientist &amp; Scrum Master</p>
 
 <h4>07/2018-01/2019</h4>
-<p><strong>Searchtalent GmbH</strong> - Data Scientist & Scrum Master</p>
-
+<p><strong>Searchtalent GmbH</strong> - Data Scientist &amp; Scrum Master</p>
 
 <h4>09/2017-06/2018</h4>
 <p><strong>Talent Data Labs</strong> - Data Scientist</p>
@@ -38,7 +27,7 @@ Jenkins | AWS | Sentry
 <p><strong>Institut des Neurosciences Cellulaires et Intégratives</strong> - PhD Candidate</p>
 
 <h2>Science</h2>
- [Click here to see my scientific publications](/publications.html)
+<p><a href="/publications.html">Click here to see my scientific publications</a></p>
 
 <h2>Education</h2>
 
@@ -53,10 +42,13 @@ Jenkins | AWS | Sentry
 
 <h2>Hobbies</h2>
 
-<p>Game Development (<a href="https://play.google.com/store/apps/details?id=com.Aardworm.GunFondlers&hl=en">Click here to see my Android game.</a>) | Bouldering | Inline skating | Traveling
+<p>Game Development (<a href="https://play.google.com/store/apps/details?id=com.Aardworm.GunFondlers&amp;hl=en">Click here to see my Android game.</a>) | Bouldering | Inline skating | Traveling
 </p>
 
 <h2>Working languages</h2>
+<ul>
 Dutch (mother tongue) | English (bilingual) | German (fluent) | Afrikaans (fluent)
+</ul>
 <p><em>Last updated: November 2019</em></p>
 
+:ET
