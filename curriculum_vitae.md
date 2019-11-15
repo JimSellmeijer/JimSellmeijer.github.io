@@ -58,5 +58,10 @@ Jenkins | AWS | Sentry
 
 <p>Game Development (<a href="https://play.google.com/store/apps/details?id=com.Aardworm.GunFondlers&hl=en">Click here to see my Android game.</a>) | Bouldering | Inline skating | Traveling
 </p>
+
+<h2>Working languages</h2>
+<ul>
+Dutch (mother tongue) | English (bilingual) | German (fluent) | Afrikaans (fluent)
+</ul>
 <p><em>Last updated: November 2019</em></p>
 
