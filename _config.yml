@@ -1,32 +1,36 @@
-# Permalinks
-permalink:           pretty
-
-# Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
-paginate:            1
-baseurl:             ""
-
-# Assets
-#
-# We specify the directory for Jekyll so we can use @imports.
-sass:
-  sass_dir:          _sass
-  style:            :compressed
-
-# About/contact
+# site settings
+title: Jim Sellmeijer
+subtitle: Data Scientist, SCRUM Master and Python Developer
+email: hello@jimsellmeijer.com
+description: and I develop software. <br />
+# baseurl: "/" # the subpath of your site, e.g. /blog
+url: # the base hostname & protocol for your site
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+# street_address: 1234 Somewhere Road
+city: Berlin
+# state: Germany
+# zip_code: 55555
+country: Germany
+phone: 004917626870385
 
-# Custom vars
-version:             2.0.0
-github:
-  repo:              https://github.com/poole/poole
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 6
 
-# Gems
-gems:
-  - jekyll-paginate
-  - jekyll-gist
+# social settings
+500px_url:
+# facebook_url:
+# github_url:
+# gitlab_url: https://gitlab.com/u/andrewbanchich
+# googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
+# instagram_url: https://instagram.com
+linkedin_url: https://de.linkedin.com/in/jim-sellmeijer
+# pinterest_url:
+# slack_url:
+# twitter_url: https://twitter.com/andrewbanchich
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
