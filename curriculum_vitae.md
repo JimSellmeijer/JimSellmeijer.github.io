@@ -29,7 +29,7 @@ Jenkins | AWS | Sentry
 <p><strong>Searchtalent GmbH</strong> - Data Scientist & Scrum Master</p>
 
 <h4>07/2018-01/2019</h4>
-<p><strong>Searchtalent GmbH</strong> - Data Scientist & Scrum Master</p>
+<p><strong>Searchtalent GmbH</strong> - Data Scientist</p>
 
 
 <h4>09/2017-06/2018</h4>
