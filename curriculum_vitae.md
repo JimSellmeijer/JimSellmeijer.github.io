@@ -17,7 +17,8 @@ Python | Matlab | SQL | C#
 <h4>Data Science</h4>
 Flask | Tensorflow | Keras | Scikit-learn | Matplotlib | Numpy | Pandas | NLTK | Scipy | Selenium | Textblob
 
-
+<h4>Web development</h4>
+React | Jekyll
 
 <h4>Devops</h4>
 Jenkins | AWS | Sentry

@@ -1,23 +1,22 @@
-I"´<h2>Techstack</h2>
+I"F<h2>Techstack</h2>
 <h4>Programming Languages</h4>
-<ul>Python | Matlab | SQL | C#</ul>
+<p>Python | Matlab | SQL | C#</p>
 
 <h4>Data Science</h4>
-<ul>
-  Flask | Tensorflow | Keras | Scikit-learn | Matplotlib | Numpy | Pandas | NLTK | Scipy | Selenium | Textblob
-</ul>
+<p>Flask | Tensorflow | Keras | Scikit-learn | Matplotlib | Numpy | Pandas | NLTK | Scipy | Selenium | Textblob</p>
+
+<h4>Web development</h4>
+<p>React | Jekyll</p>
 
 <h4>Devops</h4>
-<ul>
-Jenkins | AWS | Sentry
-</ul>
+<p>Jenkins | AWS | Sentry</p>
 
 <h2>Experience</h2>
 
-<h4>since 02/2019</h4>
+<h4>Since 02/2019</h4>
 <p><strong>Searchtalent GmbH</strong> - Data Scientist &amp; Scrum Master</p>
 
-<h4>since 07/2018-01/2019</h4>
+<h4>07/2018-01/2019</h4>
 <p><strong>Searchtalent GmbH</strong> - Data Scientist &amp; Scrum Master</p>
 
 <h4>09/2017-06/2018</h4>
@@ -42,8 +41,11 @@ Jenkins | AWS | Sentry
 
 <h2>Hobbies</h2>
 
-<ul>Game Development (<a href="https://play.google.com/store/apps/details?id=com.Aardworm.GunFondlers&amp;hl=en">Click here to see my Android game.</a>) | Bouldering | Inline skating | Traveling
-</ul>
+<p>Game Development (<a href="https://play.google.com/store/apps/details?id=com.Aardworm.GunFondlers&amp;hl=en">Click here to see my Android game.</a>) | Bouldering | Inline skating | Traveling
+</p>
+
+<h2>Working languages</h2>
+<p>Dutch (mother tongue) | English (bilingual) | German (fluent) | Afrikaans (fluent)</p>
 <p><em>Last updated: November 2019</em></p>
 
 :ET
