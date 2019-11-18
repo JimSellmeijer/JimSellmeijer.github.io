@@ -58,6 +58,6 @@ Jenkins | AWS | Sentry
 </p>
 
 <h2>Working languages</h2>
-Dutch (mother tongue) | English (bilingual) | German (fluent) | Afrikaans (fluent)
+Dutch (native) | English (native) | German (fluent) | Afrikaans (fluent)
 <p><em>Last updated: November 2019</em></p>
 
