@@ -1,8 +1,8 @@
 ---
 layout: home
-title: Home
+title: Jim Sellmeijer - Freelance Data Scientist, SCRUM Master and Python Developer
 landing-title: 'Hi, my name is Jim'
-description: null
+description: Are you looking for a python developer to strengthen your team? With over 4 years of experience in Python programming, machine learning, statistics and Scrum (agile) software development I have built and implemented many software solutions that are currently in use by companies like Haufe, XING and PDV or have led to scientific publications. In addition to working as a python developer and data scientist, I became a certified Scrum master and have successfully managed the development team at Searchtalent GmbH within the agile framework.
 image: null
 author: null
 show-tile: false

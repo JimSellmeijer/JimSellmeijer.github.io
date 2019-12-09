@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Hire
-description: Hire me as a freelancer
+subtitle: Hire me as a freelancer
+description: Are you looking for a python developer to strengthen your team? Or perhaps, you already have a team but have trouble managing it. In either case, you have come to the right address. With over 4 years of experience in Python programming, machine learning, statistics and Scrum (agile) software development I have built and implemented many software solutions that are currently in use by companies like Haufe, XING and PDV or have led to scientific publications. In addition to working as a python developer and data scientist, I became a certified Scrum master and have successfully managed the development team at Searchtalent GmbH within the agile framework.
 image: assets/images/me.jpg
 nav-menu: true
 show-tile: true

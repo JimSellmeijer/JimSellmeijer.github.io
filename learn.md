@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Learn
-description: Want to learn how to program or need help?
+subtitle: Want to learn how to program or need help?
+description: Want to learn how to program or need help with your project? I will help you be on your way! 
 image: assets/images/python_in_space.jpg
 nav-menu: true
 show-tile: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Curriculum Vitae
-description: Lorem ipsum dolor est
+description: Jim Sellmeijer Freelance Data Scientist, Scrum Master and Software Developer
 image: assets/images/me.jpg
 nav-menu: true
 show-tile: false
