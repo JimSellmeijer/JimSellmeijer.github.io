@@ -18,10 +18,10 @@ Python | Matlab | SQL | C#
 Flask | Tensorflow | Keras | Scikit-learn | Matplotlib | Numpy | Pandas | NLTK | Scipy | Selenium | Textblob
 
 <h4>Web development</h4>
-React | Jekyll
+React | Jekyll | Django
 
 <h4>Devops</h4>
-Jenkins | AWS | Sentry
+Git | Jenkins | AWS | Sentry
 
 <h2>Experience</h2>
 
