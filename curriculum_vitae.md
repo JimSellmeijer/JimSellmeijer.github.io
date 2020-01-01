@@ -26,7 +26,7 @@ Git | Jenkins | AWS | Sentry
 <h2>Experience</h2>
 
 <h4>Since 02/2019</h4>
-<p><strong>Searchtalent GmbH</strong> - Data Scientist & Scrum Master</p>
+<p><strong>Searchtalent GmbH</strong> - Data Scientist & SCRUM Master</p>
 
 <h4>07/2018-01/2019</h4>
 <p><strong>Searchtalent GmbH</strong> - Data Scientist</p>
