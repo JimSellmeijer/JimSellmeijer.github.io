@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Curriculum Vitae
-description: Jim Sellmeijer Freelance Data Scientist, Scrum Master and Software Developer
+description: Dr. Jim Sellmeijer - Freelance Software Developer, Data Scientist and SCRUM Master
 image: assets/images/me.jpg
 nav-menu: true
 show-tile: false

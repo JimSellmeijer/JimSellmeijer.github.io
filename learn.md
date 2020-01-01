@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Learn
-subtitle: Want to learn how to program or need help?
+subtitle: learn how to program
 description: Want to learn how to program or need help with your project? I will help you be on your way! 
 image: assets/images/python_in_space.jpg
 nav-menu: true
 show-tile: true
-
+show-image: false
 ---
 
 Have you always wanted to learn how to program but don't know where to start? Or perhaps you are stuck on a project and need some help. In any case, I am there for you. No matter your level, I can help you get familiar with many concepts of programming, data science and statistics.

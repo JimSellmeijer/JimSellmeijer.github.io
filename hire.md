@@ -1,20 +1,34 @@
 ---
 layout: post
-title: Hire
-subtitle: Hire me as a freelancer
+title: My Services
+subtitle: Software development, Data science and SCRUM consulting
 description: Are you looking for a software developer or data scientist to strengthen your team? Or perhaps, you already have a team but have trouble managing agile software development. In either case, you have come to the right address. With over 4 years of experience in Python programming, machine learning, statistics and Scrum (agile) software development, I have built and implemented software solutions for scientific publications and for companies like Haufe, PDV and a well-known German professional network site. In addition to working as a python developer and data scientist, I became a certified Scrum master and have successfully managed the development team at Searchtalent GmbH within the agile framework.
-image: assets/images/me.jpg
+image: assets/images/desk.jpg
 nav-menu: true
 show-tile: true
-image-size: 50
+# image-size: 50
+show-image: false
 
 ---
 
-Are you looking for a software developer or data scientist to strengthen your team? Or perhaps, you already have a team but have trouble managing agile software development. In either case, you have come to the right address. 
-
-With over 4 years of experience in Python programming, machine learning, statistics and Scrum (agile) software development, I have built and implemented software solutions for scientific publications and for companies like Haufe, PDV and a well-known German professional network site. 
-
-In addition to working as a python developer and data scientist, I became a certified Scrum master and have successfully managed the development team at Searchtalent GmbH within the agile framework.
-
-I have developed many powerful applications and restful APIs, scraped the web, trained predictive algorithms (such as neural net classifiers and regressors), worked on frontends and analyzed many sets of data. 
-So if you're looking for a motivated self-starting individual that brings software solutions to your challenges, be sure to read through my [CV](curriculum_vitae.html) and get in touch with me through the contact channels listed below.
+Are you looking for a software developer or data scientist to strengthen your team? Or perhaps you already have a team, but you need help managing agile software development? In either case, you have come to the right place. Please see a summary of the services I provide below:
+ 
+ 
+Software Development:
+- API development (Restful with Swagger docs);
+- Webapp development (with or without Data Science/Machine Learning integration);
+- Backend development.
+ 
+Data Science:
+- Machine Learning/Neural Networks;
+- Statistical Analysis;
+- Predictive Analysis;
+- Data Mining;
+- Databases.
+ 
+SCRUM:
+- SCRUM mastering;
+- Agile consulting.
+ 
+ 
+For more information, please see  my [CV](curriculum_vitae.html) or get in touch with me through the contact form below.
