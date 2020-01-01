@@ -13,6 +13,6 @@ Have you always wanted to learn how to program but don't know where to start? Or
 
 With low supply and high demand, software development has quickly risen to become one of the best sectors to work in. Learning how to program may seem daunting, and following courses online requires a lot of self-discipline and perseverance. Having a teacher who helps you get past the early hurdles of programming will keep you motivated and moving forward. 
  
-So are you interested in learning how to program? Maybe you will build your own website or data science project. No matter what your goals are, my experience as a tutor and software developer will come to your aid.
+So are you interested in learning how to program? Maybe you will build your own website or data science project. No matter what your goals are, my experience as a tutor and Software Developer will come to your aid.
  
 Feel free to send me a message and we’ll see each other soon!
