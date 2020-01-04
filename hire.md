@@ -1,8 +1,8 @@
 ---
 layout: post
 title: My Services
-subtitle: Software development, Data science and SCRUM consulting
-description: Are you looking for a Software Developer or Sata Scientist to strengthen your team? Or perhaps, you already have a team but have trouble managing Agile software development. In either case, you have come to the right address. With over 4 years of experience in Python programming, machine learning, statistics and Scrum (Agile) software development, I have built and implemented software solutions for scientific publications and for companies like Haufe, PDV and a well-known German professional network site. In addition to working as a Software Developer and Data Scientist, I became a certified SCRUM Master and have successfully managed the development team at Searchtalent GmbH within the Agile framework.
+subtitle: Software development, Data science and Scrum consulting
+description: Are you looking for a Software Developer or Sata Scientist to strengthen your team? Or perhaps, you already have a team but have trouble managing Agile software development. In either case, you have come to the right address. With over 4 years of experience in Python programming, machine learning, statistics and Scrum (Agile) software development, I have built and implemented software solutions for scientific publications and for companies like Haufe, PDV and a well-known German professional network site. In addition to working as a Software Developer and Data Scientist, I became a certified Scrum Master and have successfully managed the development team at Searchtalent GmbH within the Agile framework.
 image: assets/images/desk.jpg
 nav-menu: true
 show-tile: true
@@ -26,8 +26,8 @@ Data Science:
 - Data Mining;
 - Databases.
  
-SCRUM:
-- SCRUM mastering;
+Scrum:
+- Scrum mastering;
 - Agile consulting.
  
  
