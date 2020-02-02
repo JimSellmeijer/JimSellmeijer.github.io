@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Follow Agile Software Development Instead Of Waterfall"
+title: "Three Reasons To Follow Scrum Over Waterfall"
 # subtitle: Follow Agile software development instead of Waterfall
 description: The dawn of the digital age begot a myriad  of new tech startups in  the world. This growth is especially present in Berlin, where a new startup is born every 20 minutes. However many of these startups, in Berlin and elsewhere, fail because of the idea that a complex product, such as an app, can be successfully created after careful planning and ideation.
 image: assets/images/waterfall.jpg
