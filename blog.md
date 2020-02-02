@@ -1,9 +1,9 @@
 ---
 title: "Blog: Effective Software Development"
 layout: landing
-# image: assets/images/pic07.jpg
+image: assets/images/waterfall.jpg
 nav-menu: True
-show-tile: false
+show-tile: True
 ---
 
 <!-- Main -->
