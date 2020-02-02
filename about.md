@@ -13,7 +13,7 @@ show-image: true
 
 In 2016, I graduated *magna cum laude* with a doctorate degree in Neuroscience. During my studies, I enjoyed the creative process of writing analysis software and machine learning algorithms to facilitate my research, and in doing so realized my passion for data science and software development.
  
-In the four years that followed, I worked as a Software Developer, building and implementing software solutions for companies like Haufe, PDV and one of the leading business networks in Germany. Filling a gap within the company, I became a certified Scrum master within the Agile framework and successfully managed the development team at Searchtalent GmbH. 
+In the four years that followed, I worked as a Software Developer for Talent Data Labs and Searchtalent, building and implementing software solutions for companies like Haufe, PDV and one of the leading business networks in Germany. Filling a gap within the company, I became a certified Scrum master within the Agile framework and successfully managed the development team at Searchtalent GmbH. 
 
 As a Software Developer and Data Scientist, I develop powerful applications and restful APIs, scrape the web, train predictive algorithms such as neural net classifiers and regressors, work on frontends and analyze many sets of data.
  
