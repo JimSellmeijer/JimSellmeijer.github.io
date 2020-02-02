@@ -1,8 +1,8 @@
 ---
-title: Blog
+title: "Blog: Tips To Effectively Develop Software"
 layout: landing
 # image: assets/images/pic07.jpg
-nav-menu: false
+nav-menu: True
 show-tile: false
 ---
 
