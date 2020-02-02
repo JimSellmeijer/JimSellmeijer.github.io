@@ -1,5 +1,5 @@
 ---
-title: "Blog: Effectively Software Development"
+title: "Blog: Effective Software Development"
 layout: landing
 # image: assets/images/pic07.jpg
 nav-menu: True
