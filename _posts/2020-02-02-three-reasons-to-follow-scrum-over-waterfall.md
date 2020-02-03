@@ -24,7 +24,7 @@ However, despite the Agile Manifesto being around for almost two decades and the
 
 <h2>The Problem Of Cascade</h2>
 
-In Waterfall project management, a production plan which includes the application’s features details for each of the development phases and the project timeline. The app is designed, built, tested and finally deployed, all before the final deadline. This may sound like a sound way of developing software however, it neglects to incorporate important steps that greatly contribute to the product’s success. 
+In Waterfall project management, a production plan is written which includes the application’s features and details each of the development phases and the project timeline. The app is designed, built, tested and finally deployed, all before the final deadline. This may sound like a sound way of developing software however, it neglects to incorporate important steps that greatly contribute to the product’s success. 
 
 One of the biggest issues of the Waterfall approach is the inclusion of customer feedback at the end of development. The Waterfall developers gather all necessary information about the customers during the early planning phase, and use it to define a list of product features. Whether or not they meet the customer’s requirements will be found out <em>after</em> the application is finished and deployed. By that point, the damage is already done: important features that the developers did not consider during the planning phase may be missing from the final product, and features that the developers thought would be important may in fact be useless.  
 
