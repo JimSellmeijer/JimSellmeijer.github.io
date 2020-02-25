@@ -14,7 +14,7 @@ show-tile: True
 		{% for post in site.posts %}
 		{% if post.title != 404 %}
 		<section>
-		<a href="generic.html" class="image">
+		<a href="{{ site.url }}{{ post.url }}" class="image">
 			<img src="{{ site.url }}/{{ post.image }}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
