@@ -7,6 +7,7 @@ image: assets/images/agile.jpg
 show-image: true
 
 ---
+(Photo by [Cara Fuller](https://unsplash.com/@caraventurera?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/cheetah?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText))
 
 This month marks one year that I have been working as a Scrum Master in addition to being a developer on the team. As a Scrum Master, I have implemented changes to our internal processes which have vastly improved the way we make software. However, organizing these processes was challenging, arguably more so than actually making the software. 
 

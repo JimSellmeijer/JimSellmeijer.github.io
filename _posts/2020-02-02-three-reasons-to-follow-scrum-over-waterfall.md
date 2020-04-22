@@ -8,6 +8,7 @@ image: assets/images/waterfall.jpg
 show-image: true
 
 ---
+[Photo by Jeremy Bishop on Unsplash](https://unsplash.com/@jeremybishop?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 The dawn of the digital age begot a myriad  of new tech startups in  the world. This growth is especially present in Berlin, where a new startup is born [every 20 minutes](https://www.forbes.com/sites/davidprosser/2016/04/15/london-and-berlin-do-battle-for-start-up-supremacy/). However many of these startups, in Berlin and elsewhere, fail because of the idea that a complex product, such as an app, can be successfully created after careful planning and ideation. 
 
