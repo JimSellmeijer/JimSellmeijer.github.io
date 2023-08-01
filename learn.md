@@ -3,7 +3,7 @@ layout: post
 title: Mentoring
 subtitle: Self-development for young leaders
 description: Are you a young professional embarking on your first leadership role? You've come to the right place!
-image: assets/images/python_in_space.jpg
+image: assets/images/development.jpg
 nav-menu: true
 show-tile: true
 show-image: false
