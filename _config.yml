@@ -1,8 +1,8 @@
 # site settings
 title: Dr. Jim Sellmeijer
-subtitle: Software Developer, Data Scientist and Scrum Master
+subtitle: Founder & CTO
 email: hello@jimsellmeijer.com
-description: and I develop software <br />
+description: and I lead a tech start-up <br />
 # baseurl: "/" # the subpath of your site, e.g. /blog
 url: https://jimsellmeijer.com # the base hostname & protocol for your site
 author:
