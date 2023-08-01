@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Curriculum Vitae
-description: Dr. Jim Sellmeijer - Freelance Software Developer, Data Scientist and Scrum Master
+description: Dr. Jim Sellmeijer - Founder & CTO
 image: assets/images/me.jpg
 nav-menu: true
 show-tile: false
@@ -12,20 +12,26 @@ image-size: 50
 
 <h2>Techstack</h2>
 <h4>Programming Languages</h4>
-Python | Matlab | SQL | C#
+Python | SQL | C# | Matlab
 
 <h4>Data Science</h4>
-Flask | Tensorflow | Keras | Scikit-learn | Matplotlib | Numpy | Pandas | NLTK | Scipy | Selenium | Textblob
+Flask | SQLAlchemy | Tensorflow | Keras | Scikit-learn | Matplotlib | Numpy | Pandas | NLTK | Scipy | Selenium | Textblob
 
 <h4>Web development</h4>
-React | Jekyll | Django
+Flask | Jekyll | Django 
 
 <h4>Devops</h4>
-Git | Jenkins | AWS | Sentry
+AWS Elastic Beanstalk | S3 | AWS Lambda | RDS | ECR | Firebase | Sentry | Git | Jenkins | Sentry 
 
 <h2>Experience</h2>
 
-<h4>Since 02/2019</h4>
+<h4>Since 09/2020</h4>
+<p><strong>Workbee (Talent Group GmbH)</strong> - CTO & Co-Founder</p>
+
+<h4>Since 07/2020</h4>
+<p><strong>Raskal Games</strong> - Founder: My videogame “Ekstase” was released on <a href="https://www.nintendo.com/store/products/ekstase-switch/">Nintendo Switch</a> and <a href="https://store.steampowered.com/app/1408430/Ekstase/">Steam</a>.</p>
+
+<h4>02/2019-09/2020</h4>
 <p><strong>Searchtalent GmbH</strong> - Data Scientist & Scrum Master</p>
 
 <h4>07/2018-01/2019</h4>
@@ -54,10 +60,10 @@ Git | Jenkins | AWS | Sentry
 
 <h2>Hobbies</h2>
 
-<p>Game Development (<a href="https://play.google.com/store/apps/details?id=com.Aardworm.GunFondlers&hl=en">Click here to see my Android game.</a>) | Bouldering | Inline skating | Traveling
+<p>Game Development | Bouldering | Inline skating | Traveling
 </p>
 
 <h2>Working languages</h2>
 Dutch (native) | English (native) | German (fluent) | Afrikaans (fluent)
-<p><em>Last updated: November 2019</em></p>
+<p><em>Last updated: July 2023</em></p>
 

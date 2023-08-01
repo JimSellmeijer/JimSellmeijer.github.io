@@ -1,10 +1,10 @@
 ---
 layout: home
-title: Dr. Jim Sellmeijer - Freelance Software Developer, Data Scientist and Scrum Master
+title: Dr. Jim Sellmeijer - Founder & CTO
 landing-title: 'Hi, my name is Jim'
-description: Are you looking for a freelance Software Developer or Data Scientist to strengthen your team? Or perhaps, you already have a team but have trouble managing Agile software development. With over 4 years of experience in Python programming, machine learning, statistics and Scrum (Agile) software development I have built and implemented many software solutions that are currently in use by companies like Haufe, XING and PDV or have led to scientific publications. In addition to working as a Software Developer and Data Scientist, I became a certified Scrum Master and have successfully managed the development team at Searchtalent GmbH within the Agile framework.
+description: In September 2020, I took on the role of CTO as a co-founder of Workbee. Workbee is a digital job and career platform catering to professionals and assistants in the nursing, medical, and social work fields. As the CTO, I am responsible for shaping the technical landscape and turning our ideas into reality. Drawing upon my experience in data science, I leverage data analysis and machine learning techniques to foster data-driven decision making. Being responsible for the product development, I chart the strategic direction of our product. 
 image: null
 author: null
 show-tile: false
 ---
-Through my experience in both academia and industry, I established myself as a researcher, Agile Software Developer and Data Scientist.
+Through my experience in both academia and industry, I established myself as a Researcher, Technical Lead and Data Scientist before I co-founded Workbee and became CTO.
